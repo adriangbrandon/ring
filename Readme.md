@@ -20,8 +20,8 @@ Check that there is no errors.
 
 2. Download the version of Wikidata that you want to use:
 
-- [Wikidata Filtered (about 80M triples)](http://compact-leapfrog.tk/files/wikidata-filtered-enumerated.dat).
-- [Wikidata (about 1000M triples)](http://compact-leapfrog.tk/files/wikidata-enumerated.dat.gz). Note that this file is compressed.
+- [Wikidata Filtered (about 80M triples)](https://zenodo.org/records/13141588/files/wikidata-filtered-enumerated.tar.gz?download=1).
+- [Wikidata (about 1000M triples)](https://zenodo.org/records/13141588/files/wikidata-ring.tar.gz?download=1).
 
 Now put the .dat file inside a folder.
 
