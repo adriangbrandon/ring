@@ -1,6 +1,8 @@
 # Ring
 
-Repository for the source code of the engine presented in the paper Worst-case Optimal Graph Joins in Almost No Space.
+Repository for the source code of the engine presented in the paper [The Ring: Worst-case Optimal Joins in Graph Databases using (Almost) No Extra Space](https://dl.acm.org/doi/10.1145/3644824)
+
+**Note:** A more recent version is available at [this repository](https://github.com/adriangbrandon/ring-basic-p). The details of that version are explained in [New Compressed Indices for Multijoins on Graph Databases](https://arxiv.org/abs/2408.00558).
 
 ## Instructions
 
